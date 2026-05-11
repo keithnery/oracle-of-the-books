@@ -1,9 +1,13 @@
-# oracle-of-the-books
+<h1 align="center">
+  Oracle of the Books
+</h1>
 
-Terminal-based book recommendation system in Python.
+<p align="center">
+  Terminal-based book recommendation system in Python
+</p>
 
 ---
 
-📜 Made while learning Python and exploring computational linguistics.
+* Made while learning Python and exploring computational linguistics.
 
-✨ Still learning, improving, and expanding the recommendation system.
+* Still learning, improving, and expanding the recommendation system.
