@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Terminal-based book recommendation system in Python
+  Book recommendation system 
 </p>
 
 ---
